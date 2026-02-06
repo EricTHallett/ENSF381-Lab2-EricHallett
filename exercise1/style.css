@@ -30,14 +30,11 @@ p {
 }
 
 .box-text-color {
-    color: white;
+    color: white !important; /*to override p color*/
     padding: 20px;
     margin: 0;
 }
 .box-text-color a {
-    color: inherit;
-}
-.box-text-color p {
     color: inherit;
 }
 
