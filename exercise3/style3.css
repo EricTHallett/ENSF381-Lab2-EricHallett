@@ -52,6 +52,12 @@
     background-color: white;
 }
 
+.dropdown div {
+    padding: 10px;
+    color: black;
+    border-bottom: 1px solid #ddd;
+}
+
 .nav-item:hover .dropdown {
     display: block;
 }
