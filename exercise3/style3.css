@@ -38,3 +38,20 @@
     font-size: 18px;
     padding: 10px 15px
 }
+
+.nav-item a:hover {
+    background-color: #bdbbbb;
+    border-radius: 5px;
+}
+
+.dropdown {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: white;
+}
+
+.nav-item:hover .dropdown {
+    display: block;
+}
