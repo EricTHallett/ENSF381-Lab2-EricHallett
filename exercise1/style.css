@@ -10,12 +10,15 @@ body {
 
 .box1 {
     text-align: center;
+    background-color: darkred;
 }
 
 .box2 {
     text-align: center;
+    background-color: deeppink;
 }
 
 .box3 {
     text-align: center;
+    background-color: brown;
 }
